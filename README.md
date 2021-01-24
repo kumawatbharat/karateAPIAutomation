@@ -1,12 +1,13 @@
-## API Automation using Karate Framework
+# API Automation using Karate Framework
 
-# System Requirements:
+## System Requirements:
 1. Install Java
 2. Maven
 
-# Clone project
+## Clone project
+https://github.com/kumawatbharat/karateAPIAutomation.git
 
-# Run tests
+## Run tests
 1. To run all tests under ```org.las.features``` package
 ```mvn test -Dtest=TestRunner```
    
